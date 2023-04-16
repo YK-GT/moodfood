@@ -1,14 +1,106 @@
 [
     {
-        "dish": "chicke katsu",
-        "img": "abc.png"
+        "dish": "banhmi",
+        "img": "banhmi.jpeg"
     },
     {
-        "dish": "chicke katsu",
-        "img": "abc.png"
+        "dish": "chow-mein",
+        "img": "chow-mein.jpeg"
     },
     {
-        "dish": "chicke katsu",
-        "img": "abc.png"
+        "dish": "fried-rice",
+        "img": "fried-rice.jpeg"
+    },
+    {
+        "dish": "korean-soup",
+        "img": "korean-soup.jpeg"
+    },
+    {
+        "dish": "pho",
+        "img": "pho.jpeg"
+    },
+    {
+        "dish": "salad",
+        "img": "salad.jpeg"
+    },
+    {
+        "dish": "sushi",
+        "img": "sushi.webp"
+    },
+    {
+        "dish": "biryani",
+        "img": "biryani.jpeg"
+    },
+    {
+        "dish": "curry",
+        "img": "curry.jpeg"
+    },
+    {
+        "dish": "gyro",
+        "img": "gyro.png"
+    },
+    {
+        "dish": "latin-bowl",
+        "img": "latin-bowl.jpeg"
+    },
+    {
+        "dish": "pizza",
+        "img": "pizza.webp"
+    },
+    {
+        "dish": "salmon",
+        "img": "salmon.jpeg"
+    },
+    {
+        "dish": "tacos",
+        "img": "tacos.jpeg"
+    },
+    {
+        "dish": "burger",
+        "img": "burger.jpeg"
+    },
+    {
+        "dish": "dumplings",
+        "img": "dumplings.webp"
+    },
+    {
+        "dish": "hotpot",
+        "img": "hotpot.jpeg"
+    },
+    {
+        "dish": "pad-see-ew",
+        "img": "pad-see-ew.webp"
+    },
+    {
+        "dish": "poke",
+        "img": "poke.jpeg"
+    },
+    {
+        "dish": "seafood",
+        "img": "seafood.jpeg"
+    },
+    {
+        "dish": "chicken-katsu",
+        "img": "chicken-katsu.webp"
+    },
+    {
+        "dish": "fried-chicken",
+        "img": "fried-chicken.jpeg"
+    },
+    {
+        "dish": "kimchi-fried-rice",
+        "img": "kimchi-fried-rice.jpeg"
+    },
+    {
+        "dish": "pasta",
+        "img": "pasta.jpeg"
+    },
+    {
+        "dish": "ramen",
+        "img": "ramen.jpeg"
+    },
+    {
+        "dish": "steak",
+        "img": "steak.jpeg"
     }
 ]
