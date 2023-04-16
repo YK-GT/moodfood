@@ -1,0 +1,17 @@
+.image-container {
+    border-radius: 50%;
+    border: 10px solid lightgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 200px;
+    margin: 0 auto;
+}
+
+.img-element {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    border-radius: 50%;
+}

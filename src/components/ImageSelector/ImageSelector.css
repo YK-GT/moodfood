@@ -1,0 +1,10 @@
+.selector-container {
+    display: 'flex';
+    justify-content: 'center';
+    align-items: 'center';
+}
+
+.divider {
+    border-top: 1px solid #000000;
+    margin: 40px 10%;
+}
