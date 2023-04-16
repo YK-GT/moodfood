@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.fd8e1541.js",
-    "static/js/787.07e93b26.chunk.js": "/static/js/787.07e93b26.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/logo.svg": "/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.fd8e1541.js.map": "/static/js/main.fd8e1541.js.map",
-    "787.07e93b26.chunk.js.map": "/static/js/787.07e93b26.chunk.js.map"
+    "main.css": "/moodfood/static/css/main.073c9b0a.css",
+    "main.js": "/moodfood/static/js/main.e41c38b9.js",
+    "static/js/787.07e93b26.chunk.js": "/moodfood/static/js/787.07e93b26.chunk.js",
+    "service-worker.js": "/moodfood/service-worker.js",
+    "static/media/logo.svg": "/moodfood/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/moodfood/index.html",
+    "main.073c9b0a.css.map": "/moodfood/static/css/main.073c9b0a.css.map",
+    "main.e41c38b9.js.map": "/moodfood/static/js/main.e41c38b9.js.map",
+    "787.07e93b26.chunk.js.map": "/moodfood/static/js/787.07e93b26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fd8e1541.js"
+    "static/js/main.e41c38b9.js"
   ]
 }
