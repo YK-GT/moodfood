@@ -34,6 +34,7 @@ export default function Password({ goToNextStage }: { goToNextStage: () => any }
         <div className="centered-container">
             <div className="valentine-container">
                 <img
+                    alt="question-bear"
                     className="h-[200px]"
                     style={{ width: "400x", height: "240px" }}
                     src="https://gifdb.com/images/high/animated-cute-baby-bear-question-mark-dm4sq6mc4wdj7wmc.gif"

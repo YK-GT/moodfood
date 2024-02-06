@@ -40,6 +40,7 @@ export default function Ask({ goToNextStage }: { goToNextStage: () => void }) {
                 {yesPressed ? (
                     <>
                         <img className="h-[200px]"
+                            alt="yay-bear"
                             style={{ width: "400x", height: "240px" }}
                             src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
                         <div className="text-container">Ok yay!!!</div>
@@ -58,6 +59,7 @@ export default function Ask({ goToNextStage }: { goToNextStage: () => void }) {
                             className="h-[200px]"
                             style={{ width: "400x", height: "240px" }}
                             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+                            alt="cute-bear"
                         />
                         <div className="text-container">Will you be my Valentine?</div>
                         <div>
