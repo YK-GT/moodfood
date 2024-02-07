@@ -6,8 +6,15 @@ export default function Ask({ goToNextStage }: { goToNextStage: () => void }) {
     const [noCount, setNoCount] = useState(0);
     const [yesPressed, setYesPressed] = useState(false);
     const yesButtonSize = noCount * 20 + 16;
+    const [absStyles, setabsStyles] = useState({});
 
-    const handleNoClick = () => {
+    const handleNoClick = (e: any) => {
+        e.target.classList.add("no-button-absolute");
+        console.log(e.target.offsetWidth, e.target.offsetTop);
+        setabsStyles({
+            left: `${Math.min(window.innerWidth - e.target.offsetWidth, Math.max(Math.random() * window.innerWidth, e.target.offsetWidth))}px`,
+            top: `${Math.min(window.innerHeight - e.target.offsetTop, Math.max(Math.random() * window.innerHeight, e.target.offsetTop))}px`,
+        })
         setNoCount(noCount + 1);
     };
 
@@ -47,11 +54,11 @@ export default function Ask({ goToNextStage }: { goToNextStage: () => void }) {
                         <div className="text-container">We go for dinner on 14th yea?</div>
                         <div className="text-container">Call and tell me hehe</div>
                         <button
-                    className={"yes-button"}
-                    onClick={() => goToNextStage()}
-                >
-                    Yea mi will
-                </button>
+                            className={"yes-button"}
+                            onClick={() => goToNextStage()}
+                        >
+                            Yea mi will
+                        </button>
                     </>
                 ) : (
                     <>
@@ -71,7 +78,7 @@ export default function Ask({ goToNextStage }: { goToNextStage: () => void }) {
                                 Yes
                             </button>
 
-                            <button onClick={handleNoClick} className="no-button">
+                            <button onClick={handleNoClick} className="no-button" style={absStyles}>
                                 {noCount === 0 ? "No" : getNoButtonText()}
                             </button>
                         </div>
