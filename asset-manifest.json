@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/moodfood/static/css/main.ae36b13f.css",
-    "main.js": "/moodfood/static/js/main.6946cc09.js",
+    "main.css": "/moodfood/static/css/main.7d538a54.css",
+    "main.js": "/moodfood/static/js/main.4b5da8be.js",
     "static/js/787.07e93b26.chunk.js": "/moodfood/static/js/787.07e93b26.chunk.js",
     "service-worker.js": "/moodfood/service-worker.js",
     "index.html": "/moodfood/index.html",
-    "main.ae36b13f.css.map": "/moodfood/static/css/main.ae36b13f.css.map",
-    "main.6946cc09.js.map": "/moodfood/static/js/main.6946cc09.js.map",
+    "main.7d538a54.css.map": "/moodfood/static/css/main.7d538a54.css.map",
+    "main.4b5da8be.js.map": "/moodfood/static/js/main.4b5da8be.js.map",
     "787.07e93b26.chunk.js.map": "/moodfood/static/js/787.07e93b26.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae36b13f.css",
-    "static/js/main.6946cc09.js"
+    "static/css/main.7d538a54.css",
+    "static/js/main.4b5da8be.js"
   ]
 }
